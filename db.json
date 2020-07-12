@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"American woodcock","category":"Mauv"},
+{"id":2,"name":"Javan gold-spotted mongoose","category":"Fuscia"},
+{"id":3,"name":"Black-crowned night heron","category":"Purple"},
+{"id":4,"name":"Snake, carpet","category":"Goldenrod"},
+{"id":5,"name":"Monitor, water","category":"Yellow"},
+{"id":6,"name":"Dove, rock","category":"Red"},
+{"id":7,"name":"Tyrant flycatcher","category":"Goldenrod"},
+{"id":8,"name":"Raven, cape","category":"Indigo"},
+{"id":9,"name":"Feral rock pigeon","category":"Fuscia"},
+{"id":10,"name":"Porcupine, african","category":"Khaki"},
+{"id":11,"name":"Savanna fox","category":"Purple"},
+{"id":12,"name":"Southern hairy-nosed wombat","category":"Green"},
+{"id":13,"name":"Red howler monkey","category":"Pink"},
+{"id":14,"name":"Yellow-necked spurfowl","category":"Khaki"},
+{"id":15,"name":"Polar bear","category":"Goldenrod"},
+{"id":16,"name":"Cat, cape wild","category":"Crimson"},
+{"id":17,"name":"Mongoose, yellow","category":"Purple"},
+{"id":18,"name":"Coqui francolin","category":"Mauv"},
+{"id":19,"name":"Eurasian beaver","category":"Aquamarine"},
+{"id":20,"name":"King vulture","category":"Goldenrod"}
+]
+}
